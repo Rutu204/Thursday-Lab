@@ -1,4 +1,5 @@
-class prime extends Thread {
+class prime extends Thread 
+{
     public synchronized void run()
     {
         String primeNumbers = "";
